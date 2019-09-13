@@ -1,0 +1,14 @@
+body{
+    background-color: #000000;
+    margin: 0px;
+}
+.cover{
+    width: 75%;
+    margin: 0 auto;
+}
+.intro{
+    font-size: 1em;
+    text-align: center;
+    background-color: #ffffff;
+    margin: 0px;
+}
