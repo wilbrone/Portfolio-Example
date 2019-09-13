@@ -62,8 +62,38 @@ h1{
 }
 .section3{
     background-image: url('../images/photos/gta.jpg');
+    background-size: cover;
     width: 60%;
     float: left;
+    display: flex;
+
+}
+#im{
+    width: 30%;
+    position: absolute;
+    left: 13%;
+}
+#ims{
+    position: absolute;
+    width: 10%;
+    float: right;
+    top: 130%;
+    left: 17%;
+}
+#djs{
+    position: absolute;
+    top: 165%;
+    left: 27%;
+    width: 10%;
+}
+#ddy{
+    position: absolute;
+    top: 165%;
+    left: 27%;
+    width: 10%;
+}
+#imss{
+    position: relative;
 }
 
 
