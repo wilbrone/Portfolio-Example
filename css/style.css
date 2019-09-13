@@ -123,6 +123,10 @@ h1{
     font-style: italic;
     color: #651FFF;
 }
-
+a{
+    font-family: 'Barlow', sans-serif;
+    font-size: 0.5em;
+    margin-top: 20px;
+}
 
 
