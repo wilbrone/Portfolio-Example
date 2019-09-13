@@ -5,12 +5,12 @@ body{
 .cover{
     width: 75%;
     margin: 0 auto;
+    background-color: #ffffff;
 }
 .intro{
     font-size: 1em;
     text-align: center;
-    background-color: #ffffff;
-    margin: 0px;
+    min-height: 200%;
 }
 h1{
     font-family: 'Caveat', cursive;
@@ -28,3 +28,26 @@ h1{
     font-size: 0.8em;
     font-family: 'Barlow', sans-serif;
 }
+.section1{
+    background-image: url('../images/photos/gtr.jpg');
+    background-size: cover;
+    margin-top: 30px;
+    width: 60%;
+}
+#ppa{
+    width: 60%;
+    float: left; 
+}
+#pp{
+    width: 40%;
+    padding-top: 40px;
+}
+#ppj{
+    margin-left: 40px;
+}
+
+
+
+
+
+
