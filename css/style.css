@@ -69,8 +69,9 @@ h1{
 
 }
 #im{
-    width: 30%;
+    width: 20%;
     position: absolute;
+    top: 111%;
     left: 13%;
 }
 #ims{
@@ -88,14 +89,31 @@ h1{
 }
 #ddy{
     position: absolute;
-    top: 165%;
-    left: 27%;
-    width: 10%;
+    top: 185%;
+    left: 14%;
+    width: 20%;
+}
+#rnd{
+   position: absolute;
+    top: 190%;
+    left: 48%;
+    width: 10%; 
 }
 #imss{
     position: relative;
 }
-
+.section4{
+    display: flex;
+    align-items: center;
+    background-color: #81D4FA;
+    height: 1000px;
+}
+.section4 p{
+    font-size: 2em;
+    margin-top: 0px;
+    text-align: right;
+    margin: auto 30px
+}
 
 
 
