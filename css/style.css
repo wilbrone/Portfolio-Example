@@ -59,6 +59,7 @@ h1{
 .section2 p{
     margin-top: 0px;
     font-size: 3em;
+    font-family: 'Pacifico', cursive;
 }
 .section3{
     background-image: url('../images/photos/gta.jpg');
@@ -106,13 +107,21 @@ h1{
     display: flex;
     align-items: center;
     background-color: #81D4FA;
-    height: 1000px;
+    height: 1060px;
 }
 .section4 p{
+   /* position: absolute; */
     font-size: 2em;
     margin-top: 0px;
     text-align: right;
-    margin: auto 30px
+    margin: auto 30px;
+    font-family: 'Acme', sans-serif;
+    color: #ffffff;
+}
+.section4 p> b{
+    font-size: 1.1em;
+    font-style: italic;
+    color: #651FFF;
 }
 
 
