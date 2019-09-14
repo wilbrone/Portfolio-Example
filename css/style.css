@@ -129,4 +129,12 @@ a{
     margin-top: 20px;
 }
 
+/* About me section */
+.content{
+    border: solid;
+    background-color: #ffffff;
+   position: absolute;
+   width: inherit;
+   text-align: left;
+}
 
