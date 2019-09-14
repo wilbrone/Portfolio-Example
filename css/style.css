@@ -113,7 +113,7 @@ h1{
     position: relative;
 }
 .aboutme{
-    
+
 }
 .section4{
     display: flex;
@@ -181,4 +181,9 @@ ul{
   width: 55%; 
   font-family: 'Barlow', sans-serif;
   font-size: 1.5em; 
+}
+.footnote{
+    width: 75%;
+    margin: 0 auto;
+    border: solid;
 }
