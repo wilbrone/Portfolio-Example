@@ -183,7 +183,9 @@ ul{
   font-size: 1.5em; 
 }
 .footnote{
-    width: 75%;
-    margin: 0 auto;
+    width: 100%;
+    margin: auto;
     border: solid;
+    margin-top: 70px; 
+    text-align: center;
 }
