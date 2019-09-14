@@ -185,7 +185,10 @@ ul{
 .footnote{
     width: 100%;
     margin: auto;
-    border: solid;
     margin-top: 70px; 
     text-align: center;
+    font-family: 'Barlow', sans-serif;
+    font-size: 1em;
+    background-color: #E1F5FE; 
+    height: 90px;
 }
