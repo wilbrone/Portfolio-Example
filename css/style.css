@@ -136,23 +136,37 @@ h1{
     text-align: left;
     top: 219%;
 }
+h3{
+    margin-left: 700px;
+    font-family: 'Great Vibes', cursive;
+    font-size: 3em;
+    font-weight: lighter;
+}
 #mine{
   margin: auto;  
   width: 70%;
   margin-top: 40px;
   font-family: 'Barlow', sans-serif;
   font-size: 1em;
-  font-style: ;
 }
 #mine span{
    color: #0D47A1;  
 }
-/* #schl{
-    color: ;
+#mine2{
+    margin: auto;  
+    width: 70%;
+    font-family: 'Barlow', sans-serif;
+    font-size: 1em;
 }
-#ui{
-    color: 
+h5{
+    margin-left: 70px;
+    font-size: 2.5em;
+    font-family: 'Marck Script', cursive;
+    font-weight: lighter;
 }
-#ux{
-
-} */
+ul{
+  margin: auto;  
+  width: 55%; 
+  font-family: 'Barlow', sans-serif;
+  font-size: 1.5em; 
+}
