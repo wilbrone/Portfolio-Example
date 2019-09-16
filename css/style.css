@@ -180,7 +180,24 @@ ul{
   margin: auto;  
   width: 55%; 
   font-family: 'Barlow', sans-serif;
-  font-size: 1.5em; 
+  font-size: 1.5em;
+  padding-top: 30px; 
+}
+.frm{
+    margin: auto;  
+    width: 55%;
+    margin-top: 50px 
+}
+.frm h4{
+    font-family: 'Great Vibes', cursive;
+    font-weight: lighter;
+    font-size: 2em;
+}
+form{
+    font-weight: bold;
+    margin: auto;  
+    font-family: 'Barlow', sans-serif;
+    font-size: 1em;   
 }
 .footnote{
     width: 100%;
